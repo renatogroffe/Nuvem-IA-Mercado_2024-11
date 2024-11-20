@@ -13,3 +13,14 @@ Tecnologias e tópicos abordados: **Cloud Computing, DevOps, Containers, Open So
 
 Prints da apresentação
 
+![Renato palestrando](img/n-04.png)
+
+![Renato palestrando](img/n-03.png)
+
+![Renato palestrando](img/n-01.png)
+
+![Renato palestrando](img/n-02.png)
+
+![Renato palestrando](img/n-05.png)
+
+![Renato palestrando](img/n-06.png)
