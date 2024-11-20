@@ -1,5 +1,5 @@
 # Nuvem-IA-Mercado_2024-11
-Conteúdos da apresentação "Nuvem/Cloud Computing em 2024 - Primeiros passos, Azure, Inteligência Artificial, tecnologias, carreira...". Talk realizada em **09/11/2024 (sábado)** para alunos da **Turma 1001** do [**Centro Universitário UniRuy - Wyden**](https://www.wyden.com.br/unidades/uniruy).
+Conteúdos da apresentação "Nuvem/Cloud Computing em 2024 - Primeiros passos, Azure, Containers, Inteligência Artificial, tecnologias, carreira...". Talk realizada em **09/11/2024 (sábado)** para alunos da **Turma 1001** do [**Centro Universitário UniRuy - Wyden**](https://www.wyden.com.br/unidades/uniruy).
 
 Palestrante: Renato Groffe - **Microsoft MVP, Docker Captain, MTAC**
 
